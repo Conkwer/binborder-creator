@@ -3,7 +3,7 @@ Do not use UTF-8 filenames with special characters.
 
 How to use:
 
-1. edit default.psd template in Photoshop or whaterver
+1. edit default.psd template in Photoshop or whatever
 2. save as png 24-bit
 3. run borderer.exe/cmd and select your file
 4. a border will be created in the same folder as your png file
